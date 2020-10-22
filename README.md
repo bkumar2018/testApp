@@ -1,6 +1,12 @@
 # testApp
 testApp 
 
+On Jenkins:
+1. Create job
+2. Select the Git SCM , enter Repositories details like url and pwd if needed and branch [*/master]
+3. In Build Trigger section, select 'GitHub hook trigger for GITScm polling'
+4. save it.
+
 This repo is mainly creatd to learn Jenkins jobs 
 
 This is Git repo for Jenkins to create a myweb-0.0.1-SNAPSHOT.war 
