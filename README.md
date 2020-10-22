@@ -1,7 +1,7 @@
 # testApp
 testApp 
 
-On Jenkins:
+Thing to do on Jenkins:
 1. Create job
 2. Select the Git SCM , enter Repositories details like url and pwd if needed and branch [*/master]
 3. In Build Trigger section, select 'GitHub hook trigger for GITScm polling'
