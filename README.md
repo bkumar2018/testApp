@@ -1,5 +1,5 @@
 # testApp
-testApp testApp
+testApp 
 
 This repo is mainly creatd to learn Jenkins jobs 
 
