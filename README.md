@@ -7,6 +7,8 @@ Thing to do on Jenkins:
 3. In Build Trigger section, select 'GitHub hook trigger for GITScm polling'
 4. save it.
 
+For example: http://<jenkins-machine-public-IP>:8080/job/Github-webhook/
+
 This repo is mainly creatd to learn Jenkins jobs 
 
 This is Git repo for Jenkins to create a myweb-0.0.1-SNAPSHOT.war 
